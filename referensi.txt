@@ -1,0 +1,8 @@
+========================
+	Referensi
+========================
+
+https://www.codegrepper.com/code-examples/python/how+to+find+the+user+name+with+os+python
+https://stackoverflow.com/questions/4271740/how-can-i-use-python-to-get-the-system-hostname
+https://stackoverflow.com/questions/2946746/python-checking-if-a-user-has-administrator-privileges
+https://pastebin.com/asRbutde
